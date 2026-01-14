@@ -24,7 +24,6 @@
 
 ## 🏗️ 系统架构 (Architecture)
 
-```mermaid
 graph TD
     User[用户输入] --> StreamlitUI
     StreamlitUI --> Agent{LangGraph Router}
@@ -47,3 +46,4 @@ E2B_API_KEY = "e2b_..."
 OPENAI_API_KEY = "sk-..."
 4. 运行应用Bashstreamlit run app_v3.py
 📸 演示截图 (Screenshots)数据分析与绘图知识库问答 (带引用)自动纠错与绘图精确引用文档页码🛠️ 技术栈 (Tech Stack)LLM: DeepSeek V3 (Reasoning & Coding)Orchestration: LangChain / LangGraph (State Machine)Sandbox: E2B Code Interpreter (Security)Frontend: StreamlitVector DB: FAISSData Engine: Pandas, Matplotlib📄 LicenseMIT License
+
