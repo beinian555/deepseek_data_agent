@@ -17,13 +17,14 @@
   - 集成 **E2B 沙盒**，所有 AI 生成的代码均在云端隔离容器中运行，杜绝 RCE（远程代码执行）风险。
   
 - **🔄 自我修正机制 (Self-Correction)**：
-  - 基于图结构的错误通过循环，当代码报错时，Agent 会自动分析 Traceback 并重写代码，大幅提升执行成功率。
+  - 基于图结构的错误循环机制，当代码报错时，Agent 会自动分析 Traceback 并重写代码，大幅提升执行成功率。
 
 - **💾 持久化记忆**：
   - 利用 SQLite 实现多轮对话状态管理，支持会话切换与断点续传。
 
 ## 🏗️ 系统架构 (Architecture)
 
+```mermaid
 graph TD
     User[用户输入] --> StreamlitUI
     StreamlitUI --> Agent{LangGraph Router}
@@ -37,13 +38,46 @@ graph TD
     FAISS -- 返回片段 --> Agent
     
     Agent -- 汇总回答 --> StreamlitUI
-🚀 快速开始 (Quick Start)1. 克隆项目Bashgit clone [https://github.com/your-username/data-insight-agent.git](https://github.com/your-username/data-insight-agent.git)
+```
+
+## 🚀 快速开始 (Quick Start)
+
+### 1. 克隆项目
+```bash
+git clone [https://github.com/your-username/data-insight-agent.git](https://github.com/your-username/data-insight-agent.git)
 cd data-insight-agent
-2. 安装依赖Bashpip install -r requirements.txt
-3. 配置环境变量 (可选)你可以直接在 Web 界面输入 Key，也可以创建 .streamlit/secrets.toml 文件预填：Ini, TOML[general]
+```
+
+### 2. 安装依赖
+```bash
+pip install -r requirements.txt
+```
+
+### 3. 配置环境变量 (可选)
+你可以直接在 Web 界面侧边栏输入 Key，也可以创建 `.streamlit/secrets.toml` 文件预填：
+
+```toml
+[general]
 DEEPSEEK_API_KEY = "sk-..."
 E2B_API_KEY = "e2b_..."
 OPENAI_API_KEY = "sk-..."
-4. 运行应用Bashstreamlit run app_v3.py
-📸 演示截图 (Screenshots)数据分析与绘图知识库问答 (带引用)自动纠错与绘图精确引用文档页码🛠️ 技术栈 (Tech Stack)LLM: DeepSeek V3 (Reasoning & Coding)Orchestration: LangChain / LangGraph (State Machine)Sandbox: E2B Code Interpreter (Security)Frontend: StreamlitVector DB: FAISSData Engine: Pandas, Matplotlib📄 LicenseMIT License
+```
 
+### 4. 运行应用
+```bash
+streamlit run app_v3.py
+```
+
+
+## 🛠️ 技术栈 (Tech Stack)
+
+- **LLM**: DeepSeek V3 (Reasoning & Coding)
+- **Orchestration**: LangChain / LangGraph (State Machine)
+- **Sandbox**: E2B Code Interpreter (Security)
+- **Frontend**: Streamlit
+- **Vector DB**: FAISS
+- **Data Engine**: Pandas, Matplotlib
+
+## 📄 License
+
+MIT License
