@@ -1,0 +1,19 @@
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略环境配置和密钥
+.env
+.streamlit/secrets.toml
+*.sqlite
+memory.sqlite
+
+# 忽略生成的结果文件
+*.png
+*.csv
+*.xlsx
+*.pdf
+
+# 忽略虚拟环境
+venv/
+.venv/

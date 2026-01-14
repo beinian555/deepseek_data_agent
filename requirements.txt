@@ -1,0 +1,13 @@
+streamlit
+langchain
+langgraph
+langchain-openai
+langchain-experimental
+langchain-community
+e2b-code-interpreter
+pandas
+matplotlib
+openpyxl
+faiss-cpu
+pypdf
+tiktoken
