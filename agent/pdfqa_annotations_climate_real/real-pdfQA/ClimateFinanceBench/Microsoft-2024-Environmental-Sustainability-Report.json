@@ -1,0 +1,29 @@
+[
+    {
+        "question": "What drove carbon intensity change as of the FY2023 for the company?",
+        "answer": "Microsoft indicates that it is working to reduce its carbon intensity (Improving device and packaging circularity, reduce resources withdrawal intensity) to achieve their net zero goal but the report does not specify if their carbon intensity changed compared to previous years.",
+        "sources": [
+            "doc1{We are taking action to reduce the intensity with which we withdraw resources by continuing to design and innovate in order to minimize water use and achieve our intensity target.}, doc1{Over the past year, we have continued our work to reduce the environmental impacts of Microsoft devices and packaging by increasing circularity and reducing carbon intensity across the entire product life cycle.}"
+        ],
+        "num_sources_used": 2,
+        "file_name": "Microsoft-2024-Environmental-Sustainability-Report"
+    },
+    {
+        "question": "Does the company operate in a high emitting sector as of FY2023?",
+        "answer": "Not available in the retrieved information.",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "Microsoft-2024-Environmental-Sustainability-Report"
+    },
+    {
+        "question": "What is the scope 1, 2 and 3 emissions (in TCO2e) of the company for FY2023? Provide the values for each scope individually.",
+        "answer": "Not available in the retrieved information",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "Microsoft-2024-Environmental-Sustainability-Report"
+    }
+]

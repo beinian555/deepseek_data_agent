@@ -1,0 +1,11 @@
+[
+    {
+        "question": "Does the company operate in a high emitting sector as of FY2023?",
+        "answer": "Not available in the retrieved information.",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "Meta-2024-Sustainability-Report"
+    }
+]

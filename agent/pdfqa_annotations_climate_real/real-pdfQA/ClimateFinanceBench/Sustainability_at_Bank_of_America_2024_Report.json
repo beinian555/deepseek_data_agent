@@ -1,0 +1,20 @@
+[
+    {
+        "question": "According to the company's Disclosure from FY2023, which topics have been assessed to be material?",
+        "answer": "According to the company's statement for fiscal 2023, the following topics are considered material: Climate Transition, Climate Change, Clean Technology, Renewable Energy, Sustainable Infrastructure, Environmental Priorities (including clean water, waste scarcity, sustainable and natural resources, agriculture, biodiversity and nature).",
+        "sources": [
+            "doc1{Climate Transition, Climate Change, Clean Technology, Renewable Energy, Sustainable Infrastructure, Environmental Priorities (including clean water, waste scarcity, sustainable and natural resources, agriculture, biodiversity and nature)}"
+        ],
+        "num_sources_used": 1,
+        "file_name": "Sustainability_at_Bank_of_America_2024_Report"
+    },
+    {
+        "question": "What is the total carbon footprint of the company, that is the sum of the scopes 1, 2 and 3 emissions (in TCO2e), for FY2023? If the total value is directly available, provide it instead of calculating the sum.",
+        "answer": "Not available in the retrieved information.",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "Sustainability_at_Bank_of_America_2024_Report"
+    }
+]

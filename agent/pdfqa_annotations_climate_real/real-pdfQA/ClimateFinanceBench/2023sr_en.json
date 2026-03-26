@@ -1,0 +1,38 @@
+[
+    {
+        "question": "According to the company's Disclosure from FY2023, which topics have been assessed to be material?",
+        "answer": "According to the company's statement for fiscal 2023, the following topics are considered important: \n\nGovernance Issue \n\n·Product quality and safety \n·Compliance operations \n· Supply chain sustainability management \n· Corporate governance \n· Risk management \n· Anti-corruption \n· Consumer rights and privacy protection \n· Safety production \n· Economic benefits  \n· Medical accessibility \n· Drive industry development \n· Intellectual property protection \n· Business innovation and digital management \n· Responsible marketing \n· Information security management \n· Community participation contribution\n\nSocial Issue\n\n· Employee rights and \nbenefits \n· Diversity and equality \n· Occupational health and \nsafety \n· Employee development \nand training\n\nEnvironmental Issue\n\n·Resource utilization and \nutilization efficiency \n·Addressing climate \nchange \n·Hazardous waste \ndisposal and \nmanagement \n·Ecological environment \nand biodiversity \nconservation \n·Pollutant emission \nmanagement",
+        "sources": [
+            "doc1{Governance Issue \n\n·Product quality and safety \n·Compliance operations \n· Supply chain sustainability management \n· Corporate governance \n· Risk management \n· Anti-corruption \n· Consumer rights and privacy protection \n· Safety production \n· Economic benefits  \n· Medical accessibility \n· Drive industry development \n· Intellectual property protection \n· Business innovation and digital management \n· Responsible marketing \n· Information security management \n· Community participation contribution\n\nSocial Issue\n\n· Employee rights and \nbenefits \n· Diversity and equality \n· Occupational health and \nsafety \n· Employee development \nand training\n\nEnvironmental Issue\n\n·Resource utilization and \nutilization efficiency \n·Addressing climate \nchange \n·Hazardous waste \ndisposal and \nmanagement \n·Ecological environment \nand biodiversity \nconservation \n·Pollutant emission \nmanagement}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "2023sr_en"
+    },
+    {
+        "question": "What drove carbon intensity change as of the FY2023 for the company?",
+        "answer": "No drivers specified in the report.\n\n",
+        "sources": [
+            "doc1{Resource utilization and\nutilization efficiency\n· Addressing climate\nchange\n· Hazardous waste\ndisposal and\nmanagement\n· Ecological environment\nand biodiversity\nconservation\n· Pollutant emission\nmanagement"
+        ],
+        "num_sources_used": 1,
+        "file_name": "2023sr_en"
+    },
+    {
+        "question": "Does the company operate in a high emitting sector as of FY2023?",
+        "answer": "Not available in the retrieved information.",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "2023sr_en"
+    },
+    {
+        "question": "Has the company identified significant decarbonization levers ? If yes, detail them.",
+        "answer": "Sinopharm has implemented several significant decarbonization levers:\n\nGreen Logistics Development: optimization of logistics operations using intelligent scheduling systems and AI to reduce fuel consumption and greenhouse gas emissions.\n\nRenewable Energy Use: investments in photovoltaics, battery-swapping light trucks, and charging stations to reduce dependency on fossil fuels.\n\nCarbon-Neutral Warehousing: development of the first carbon-neutral demonstration zone with green building standards, energy management systems, and carbon offset measures.\n\nEmission Reduction Targets: commitment to reducing CO2 emissions per unit of logistics throughput by 10-15% by 2025.\n\nIndustry Collaboration: engaging in research and development of low-carbon technologies in pharmaceutical logistics.",
+        "sources": [
+            "doc1{Energy sources\nPromote the development and use of clean energy\nprojects such as photovoltaics and new energy\nvehicles}, doc1{ Realize a 10-15% reduction in carbon dioxide\nemissions per unit logistics throughput (million\nboxes) of major logistics parks compared to 2022\n\nCase: Sinopharm Logistics utilizes intelligent scheduling to optimize distribution plans\nSinopharm Logistics adopts an intelligent scheduling system, utilizing a dynamic cellular algorithm, concave-convex\nalgorithm, intelligent optimization engine, and artificial intelligence to form an overall distribution optimization plan for\nintelligent scheduling and path optimization. The fuel consumption of vehicles is formulated one by one according to\nvehicle type, route, and distribution network, decreasing the daily average scheduling time to 22 minutes and saving\n2.1 train times during peak cargo volume days. This year, the total energy consumption of Sinopharm Logistics\ndecreased by about 3.8% compared to the same period in 2022, and the comprehensive energy consumption of\nRMB 10,000 of operating revenue decreased by 6.29%\n\nCase: The First Carbon-neutral Demonstration Zone of Sinopharm is about to be Completed\nIn 2023, the construction of warehouses 2 and 3 at the Shanghai Kangning Road Park of Sinopharm Logistics\ncommenced and is soon to be completed and certified, making it the first carbon-neutral demonstration zone of\nSinopharm. The carbon-neutral zone aims to achieve carbon neutrality certification for pharmaceutical logistics and\nwarehousing by constructing facilities such as rooftop dispersed photovoltaics and charging stations, trial operation\nof battery swapping light trucks, completion of carbon inventory, construction of a carbon management system, and\nassistance in green equity neutralization. It is expected to achieve an annual carbon reduction of over 350 tons.\n\nGreen building measures\nDevelop a green and low-carbon overall plan, fully adhere to green building standards during project preparation, and\nstrive to create a low-carbon demonstration park;\nCarry out industry-university research cooperation, jointly focus on dual carbon research in the pharmaceutical logistics\nindustry, and form low-carbon technologies and standards with demonstration and influence in the pharmaceutical\nlogistics industry;\nConduct climate response analysis, evaluate greenhouse gas emissions, extreme weather and other factors generated\nduring construction and put into use, and develop response plans.}"
+        ],
+        "num_sources_used": 2,
+        "file_name": "2023sr_en"
+    }
+]
