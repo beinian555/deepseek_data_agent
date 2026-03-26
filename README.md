@@ -41,9 +41,9 @@ graph TD
     Agent -- 可选 rerank --> RerankAPI[托管 Rerank API]
     
     Agent -- 汇总回答 --> StreamlitUI
-
-## 🚀 快速开始 (Quick Start)
 ```
+## 🚀 快速开始 (Quick Start)
+
 1. 克隆项目
 ```bash
 git clone [https://github.com/your-username/data-insight-agent.git](https://github.com/your-username/data-insight-agent.git)
