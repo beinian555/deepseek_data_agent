@@ -1,0 +1,16 @@
+streamlit
+langchain
+langgraph
+langchain-openai
+langchain-experimental
+langchain-community
+e2b-code-interpreter
+pandas
+matplotlib
+openpyxl
+pypdf
+tiktoken
+rank-bm25
+requests
+python-dotenv
+chromadb
