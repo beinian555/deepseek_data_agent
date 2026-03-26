@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Does the company have a decarbonization trajectory compatible with a 1.5 or 2 degree scenario?",
+        "answer": "Not available in the retrieved information",
+        "sources": [
+            "doc1{Our strategy is designed to be resilient to a range of \nclimate-related scenarios including those consistent \nwith well-below 2°C and 1.5°C outcomes. In our \nclimate-related financial disclosures in the bp Annual \nReport 2023 (pages 55-68), we describe how we \nhave conducted an analysis to test our view of \nthe resilience of our strategy to different climate_x0002_related scenarios, using the update on strategic \nprogress presented in February 2023. This includes \nscenarios that the WBCSD classify to be consistent \nwith well-below 2°C and 1.5°C outcomesa\n.\nAs we explain in our disclosure, while the results \nof any such analysis must be treated with caution \noverall, this resilience test again reinforced our \nconfidence in the continued resilience of our \nstrategy to a wide range of ways in which the \nenergy system could evolve throughout this \ndecade, including scenarios consistent with \nlimiting temperature rise to 1.5°C.}"
+        ],
+        "num_sources_used": 1,
+        "file_name": "bp-sustainability-report-2023"
+    },
+    {
+        "question": "What is the company's carbon intensity (in TCO2 per million USD) for FY2022? If not available, calculate it by dividing the total carbon emissions by the year's revenue.",
+        "answer": "Not available in the retrieved information.",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "bp-sustainability-report-2023"
+    },
+    {
+        "question": "What is the total carbon footprint of the company, that is the sum of the scopes 1, 2 and 3 emissions (in TCO2e), for FY2022? If the total value is directly available, provide it instead of calculating the sum.",
+        "answer": "Not available in the retrieved information",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "bp-sustainability-report-2023"
+    }
+]

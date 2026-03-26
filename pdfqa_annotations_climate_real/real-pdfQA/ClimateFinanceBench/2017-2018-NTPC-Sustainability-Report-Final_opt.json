@@ -1,0 +1,11 @@
+[
+    {
+        "question": "According to the company's Disclosure from FY2017, which topics have been assessed to be material?",
+        "answer": "According to the company's statement for fiscal 2017, the following topics are considered material: Business & Governance (Ethics & Integrity, Fuel Availability, Operational Efficiency & Plant Reliability, New Technologies & Digitabilisation, Sustainable Supply Chain, Plant Decommissioning, Disaster Management, Profitability), Social (Employee Development & Engagement, Occupational Health & Safety, Customer Satisfaction, Land Acquisition, Community Engagement, Labour Practices) and Environmental (Decarbonization of Energy Mix, Water & Effluents Management, Biodiversity, Waste Management, Air Emissions, Ash Management).",
+        "sources": [
+            "doc1{\nBusiness & Governance\n1 Ethics & Integrity \n2 Fuel Availability\n3 Operational Efficiency & Plant Reliability\n4 New Technologies & Digitabilisation\n5 Sustainable Supply Chain\n6 Plant Decommissioning\n7 Disaster Management\n8 Profitability\nSocial\n9 Employee Development & Engagement\n10 Occupational Health & Safety\n11 Customer Satisfaction\n12 Land Acquisition\n13 Community Engagement\n14 Labour Practices\nEnvironmental\n15 Decarbonization of Energy Mix\n16 Water & Effluents Management\n17 Biodiversity\n18 Waste Management\n19 Air Emissions\n20 Ash Management}"
+        ],
+        "num_sources_used": 1,
+        "file_name": "2017-2018-NTPC-Sustainability-Report-Final_opt"
+    }
+]

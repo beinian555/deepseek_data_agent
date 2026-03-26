@@ -1,0 +1,20 @@
+[
+    {
+        "question": "What is the company's carbon intensity (in TCO2 per million USD) for FY2024? If not available, calculate it by dividing the total carbon emissions by the year's revenue.",
+        "answer": "Not available in the retrieved information.",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "2024-sustainability-report"
+    },
+    {
+        "question": "What is the total carbon footprint of the company, that is the sum of the scopes 1, 2 and 3 emissions (in TCO2e), for FY2024? If the total value is directly available, provide it instead of calculating the sum.",
+        "answer": "Not available in the retrieved information",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "2024-sustainability-report"
+    }
+]

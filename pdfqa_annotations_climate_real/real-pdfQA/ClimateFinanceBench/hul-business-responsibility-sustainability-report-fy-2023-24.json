@@ -1,0 +1,38 @@
+[
+    {
+        "question": "According to the company's Disclosure from FY2023, which topics have been assessed to be material?",
+        "answer": "According to the company's statement for fiscal 2023, the following topics are considered material: Improve the health of \nthe planet ; Contribute to a fairer, more socially inclusive world ; Improve people’s health, confidence and well-being. Some key words : ethic ; goods and services sustainable and safe ; well-being of employees ; human rights ; protect and restore the environment ; responsible and transparent ; inclusive growth and equitable development.",
+        "sources": [
+            "doc1{ALIGNED TO OUR SUSTAINABILITY GOALS \nHUL DEMONSTRATES ITS KEY ESG FOCUS AREAS Improve the health of \nthe planet Contribute to a fairer, more \nsocially inclusive world Improve people’s health, \nconfidence and well-being}\n doc1{\nPRINCIPLE 1\nBusinesses should conduct and govern themselves with integrity, and in a manner that is ethical, transparent, and accountable \nPRINCIPLE 2\nBusinesses should provide goods and services in a manner that is sustainable and safe\nPRINCIPLE 3\nBusinesses should respect and promote the well-being of all employees, including those in their value chains\nPRINCIPLE 4\nBusinesses should respect the interests of and be responsive to all its stakeholders\nPRINCIPLE 5\nBusinesses should respect and promote human rights\nPRINCIPLE 6\nBusinesses should respect and make efforts to protect and restore the environment\nPRINCIPLE 7\nBusinesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and transparent\nPRINCIPLE 8\nBusinesses should promote inclusive growth and equitable development\nPRINCIPLE 9\nBusinesses should engage with and provide value to their consumers in a responsible manner}"
+        ],
+        "num_sources_used": 2,
+        "file_name": "hul-business-responsibility-sustainability-report-fy-2023-24"
+    },
+    {
+        "question": "Does the company operate in a high emitting sector as of FY2023?",
+        "answer": "Not available in the retrieved information.",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "hul-business-responsibility-sustainability-report-fy-2023-24"
+    },
+    {
+        "question": "What is the company's carbon intensity (in TCO2 per million USD) for FY2023? If not available, calculate it by dividing the total carbon emissions by the year's revenue.",
+        "answer": "Not available in the retrieved information.",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "hul-business-responsibility-sustainability-report-fy-2023-24"
+    },
+    {
+        "question": "What is the total carbon footprint of the company, that is the sum of the scopes 1, 2 and 3 emissions (in TCO2e), for FY2023? If the total value is directly available, provide it instead of calculating the sum.",
+        "answer": "Not available in the retrieved information",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "hul-business-responsibility-sustainability-report-fy-2023-24"
+    }
+]

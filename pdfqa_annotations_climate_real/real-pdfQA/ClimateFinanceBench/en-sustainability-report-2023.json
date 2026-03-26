@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Does the company operate in a high emitting sector as of FY2023?",
+        "answer": "Not available in the retrieved information.",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "en-sustainability-report-2023"
+    },
+    {
+        "question": "What is the scope 1, 2 and 3 emissions (in TCO2e) of the company for FY2023? Provide the values for each scope individually.",
+        "answer": "Not available in the retrieved information",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "en-sustainability-report-2023"
+    }
+]

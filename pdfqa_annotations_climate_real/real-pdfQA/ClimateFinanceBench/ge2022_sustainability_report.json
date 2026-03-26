@@ -1,0 +1,20 @@
+[
+    {
+        "question": "What drove carbon intensity change as of the FY2021 for the company?",
+        "answer": "General Electric's carbon intensity in the FY2021 has decreased compared to the 2010 baseline. The key factors behind this change are:\n- More fuel efficient commercial engine products certified\n- Fewer part counts and optimized part designs from additive manufacturing\n- More heat-resistant ceramic matrix composites \n- All GE and joint venture engines can operate on approved Sustainable Aviation Fuel\n- Flight Management System for optimized airport descent",
+        "sources": [
+            "doc1{ACTIONS PRE-2020 2020-2030 2030-2050\nBuilding on substantial\ncontributions from past action.\n\nMore fuel efficient commercial\nengine products certified: GE\nPassport, GEnx, CFM LEAP33, GE9X\nFewer part counts, optimized\npart designs from additive\nmanufacturing vs. conventional\nmanufacturing\nMore heat-resistant ceramic matrix\ncomposites vs. metal alloys\nLighter-weight, optimized\npart designs from additive\nmanufacturing vs. conventional\nmanufacturing\nAll GE and joint venture engines\ncan operate on approved\nSustainable Aviation Fuel\nFlight Management System for\noptimized airport descent}"
+        ],
+        "num_sources_used": 1,
+        "file_name": "ge2022_sustainability_report"
+    },
+    {
+        "question": "What is the total carbon footprint of the company, that is the sum of the scopes 1, 2 and 3 emissions (in TCO2e), for FY2022? If the total value is directly available, provide it instead of calculating the sum.",
+        "answer": "Not available in the retrieved information",
+        "sources": [
+            "doc1{}"
+        ],
+        "num_sources_used": 0,
+        "file_name": "ge2022_sustainability_report"
+    }
+]
